@@ -1,0 +1,8 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "src/rs2xml.jar",
+    "c:\\Program Files\\NetBeans-12.6\\netbeans\\java\\modules\\ext\\AbsoluteLayout.jar",
+    "c:\\Users\\Md.Maraj Rashid\\Desktop\\java\\mysql-connector-java-8.0.28\\mysql-connector-java-8.0.28.jar"
+  ]
+}
